@@ -35,7 +35,7 @@ Each notebook follows a structured workflow:
 ## Repository Structure
 
 📦 Data-Analytics
- ┣ 📂 ML Algorithms
+ ┣ ML Algorithms
  ┃ ┣ KM Final.ipynb
  ┃ ┣ KNN Final.ipynb
  ┃ ┣ LR Final.ipynb
@@ -43,13 +43,11 @@ Each notebook follows a structured workflow:
  ┃ ┣ RF Final.ipynb
  ┃ ┣ SVM Final.ipynb
  ┃ ┣ ML Algorithms.docx
- ┣ 📂 templates
- ┣ 📂 workflows
+ ┣ templates
+ ┣ workflows
  ┃ ┣ deploy.yml
  ┣ Dockerfile
  ┣ Index.py
  ┣ app.py
  ┣ README.md
  ┣ requirements.txt
- 
-
