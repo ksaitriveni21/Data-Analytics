@@ -31,23 +31,3 @@ Each notebook follows a structured workflow:
 * Tune hyperparameters for better performance
 * Deploy a serialized version of the models as an application
 * Compare different versions of algorithms and evaluate performance impact
-  
-## Repository Structure
-
-📦 Data-Analytics
- ┣ ML Algorithms
- ┃ ┣ KM Final.ipynb
- ┃ ┣ KNN Final.ipynb
- ┃ ┣ LR Final.ipynb
- ┃ ┣ NB Final.ipynb
- ┃ ┣ RF Final.ipynb
- ┃ ┣ SVM Final.ipynb
- ┃ ┣ ML Algorithms.docx
- ┣ templates
- ┣ workflows
- ┃ ┣ deploy.yml
- ┣ Dockerfile
- ┣ Index.py
- ┣ app.py
- ┣ README.md
- ┣ requirements.txt
