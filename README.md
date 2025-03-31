@@ -14,6 +14,10 @@ This portfolio consists of Jupyter notebooks where I have explored and implement
 * Naive Bayes
 * K-Nearest Neighbors (KNN)
 * K-Means Clustering
+* Logistic Regression
+* Convolutional Neural Network (CNN)
+* RNN & LSTM
+* Transformers
   
 ## Workflow
 Each notebook follows a structured workflow:
